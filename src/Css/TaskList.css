@@ -1,0 +1,65 @@
+.asd {
+  border-radius: 15px;
+  padding: 1%;
+  max-width: 400px;
+  min-width: 400px;
+  max-height: 250px;
+  overflow: hidden;
+  font-size: 1.2rem;
+}
+
+.add-btn {
+  border-radius: 15px;
+  font-size: 1.4rem;
+}
+
+.line {
+  position: relative;
+  top: 12px;
+  border: 2px solid black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+
+.general-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.task-form-cont {
+  height: 80vh;
+}
+
+.task {
+  display: flex;
+  margin: 0.5%;
+}
+
+.form {
+  border-radius: 15px;
+  padding: 1%;
+  font-size: 1.4rem;
+  min-width: 200px;
+}
+.form-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.task-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.delete-btn {
+  border-radius: 25px;
+  padding: 1%;
+  font-size: 1.6rem;
+  margin-left: 1%;
+}
