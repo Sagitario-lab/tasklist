@@ -57,7 +57,6 @@ export function TaskList() {
             className="form"
           ></input>
           <button type="submit" className="add-btn">
-            {" "}
             Add
           </button>
         </form>
